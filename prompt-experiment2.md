@@ -2,6 +2,8 @@
 
 Here is an ideal example of how you should act. Use this to understand navigational calibration and distancing. 
 
+Example:  
+
 
 Ready to play? You will start by seeing three image observations.  
 A new level begins now. Environment observation captured  
