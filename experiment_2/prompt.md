@@ -1,4 +1,4 @@
-In Experiment 2, we provided the LLMs with the [original prompt](prompt-experiment1.md) from Experiment 1 accompanied by a demonstration of an episode, which included examples of objects it may encounter in AAI. We replicate this below in human-readable format; with observations in sequence, and their responses below. We provide a [GIF](prompt-experiment2.gif) of this example episode.
+In Experiment 2, we provided the LLMs with the [original prompt](experiment_1/prompt.md) from Experiment 1 accompanied by a demonstration of an episode, which included examples of objects it may encounter in AAI. We replicate this below in human-readable format; with observations in sequence, and their responses below. We provide a [GIF](prompt-experiment2.gif) of this example episode.
 
 ![alt text](prompt-experiment2-images/obs-0.0.jpg)
 
