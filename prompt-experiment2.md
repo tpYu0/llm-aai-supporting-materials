@@ -100,21 +100,29 @@ Go(3);
 
 Turn(-45);
 
-![alt text](prompt-experiment2-images/obs-24.4.jpg)
+![alt text](prompt-experiment2-images/obs-23.7.jpg)
 
 Go(4);
 
-![alt text](prompt-experiment2-images/obs-25.15.jpg)
+![alt text](prompt-experiment2-images/obs-24.4.jpg)
 
 Turn(-90);
 
-![alt text](prompt-experiment2-images/obs-26.7.jpg)
+![alt text](prompt-experiment2-images/obs-25.15.jpg)
 
 Think("I should be very careful to avoid the red balls: if I touch one of those I'll lose the level!");Turn(45);
 
-![alt text](prompt-experiment2-images/obs-28.2.jpg)
+![alt text](prompt-experiment2-images/obs-26.7.jpg)
 
 Go(4);
+
+![alt text](prompt-experiment2-images/obs-27.4.jpg)
+
+Go(2);
+
+![alt text](prompt-experiment2-images/obs-28.2.jpg)
+
+Turn(-90);
 
 ![alt text](prompt-experiment2-images/obs-29.15.jpg)
 
@@ -122,57 +130,49 @@ Go(2);
 
 ![alt text](prompt-experiment2-images/obs-30.2.jpg)
 
-Turn(-90);
+Turn(-15);
 
 ![alt text](prompt-experiment2-images/obs-31.2.jpg)
 
 Go(2);
 
-![alt text](prompt-experiment2-images/obs-32.15.jpg)
-
-Turn(-15);
-
-![alt text](prompt-experiment2-images/obs-33.15.jpg)
-
-Go(2);
-
-![alt text](prompt-experiment2-images/obs-34.15.jpg)
+![alt text](prompt-experiment2-images/obs-32.2.jpg)
 
 Go(4);
 
-![alt text](prompt-experiment2-images/obs-35.15.jpg)
+![alt text](prompt-experiment2-images/obs-33.4.jpg)
 
 Think("The red ball is somewhere to my right: I'll make sure to get it in view before I continue");Turn(120);
 
-![alt text](prompt-experiment2-images/obs-36.15.jpg)
+![alt text](prompt-experiment2-images/obs-34.20.jpg)
 
 Turn(-25);
 
-![alt text](prompt-experiment2-images/obs-37.15.jpg)
+![alt text](prompt-experiment2-images/obs-35.4.jpg)
 
 Go(15);
 
-![alt text](prompt-experiment2-images/obs-38.15.jpg)
+![alt text](prompt-experiment2-images/obs-36.15.jpg)
 
 Turn(-50);
 
-![alt text](prompt-experiment2-images/obs-39.15.jpg)
+![alt text](prompt-experiment2-images/obs-37.8.jpg)
 
 Think("There seem to be piled boxes in front of me: I'll push them out of the way by crashing into them with speed"); Go(15);
 
-![alt text](prompt-experiment2-images/obs-40.15.jpg)
+![alt text](prompt-experiment2-images/obs-38.15.jpg)
 
 Think("I should confirm that I was successful in moving the boxes by turning around"); Turn(-120);
 
-![alt text](prompt-experiment2-images/obs-10.15.jpg)
+![alt text](prompt-experiment2-images/obs-39.20.jpg)
 
 Think("I can see some piled boxes from the other side, so I have made it through. I'll turn to search this area for the reward"); Turn(90);
 
-![alt text](prompt-experiment2-images/obs-10.15.jpg)
+![alt text](prompt-experiment2-images/obs-40.15.jpg)
 
 Think("The green ball is in view, I should turn about 30 degrees to my left to get it"); Turn(-30);
 
-![alt text](prompt-experiment2-images/obs-10.15.jpg)
+![alt text](prompt-experiment2-images/obs-41.5.jpg)
 
 Think("The green ball is centered in my field of vision! I can advance forward to get it!"); Go(10);
 
