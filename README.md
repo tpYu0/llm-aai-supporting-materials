@@ -15,4 +15,6 @@ In [exploratory_experiments/](exploratory_experiments/), you can find the [resul
 
 In the [reproducibility statement](reproducibility_statement.md), you will find the exact LLM API checkpoints and version of Animal-AI used, as well as some notes about a recurring API error we ran into.
 
+The [Capability Case Studies](capability_case_studies.md) offer some insight into some of the capability-related failure modes that were anecdotally observed during testing.
+
 Finally, the [aai_competition_levels.md](aai_competition_levels.md) file provides a detailed description of the levels in the Animal-AI testbed.
