@@ -4,6 +4,7 @@ This anonymous repository contains the supporting materials for the submission o
 <p align="center">
   <img src="exploratory_experiments/frame_by_frame/example_run_arena_01_06_02.gif" alt="alt text" width="400"/>
 </p>
+
 In [example_run/](example_run/), you can find a [GIF](example_run/run.gif) of an example LLM-AAI episode, along with a detailed [trace](example_run/run.md) of the observation-command pairs for that episode.
 
 In [experiment_1/](experiment_1/), you can find the ReAct-based [background prompt](experiment_1/prompt.md) provided to the LLMs.
